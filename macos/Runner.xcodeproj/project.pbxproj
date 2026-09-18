@@ -458,7 +458,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Manual;
-				PRODUCT_NAME = FluffyChat;
+				PRODUCT_NAME = "LSP Chat";
 			};
 			name = Profile;
 		};
@@ -616,7 +616,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Manual;
-				PRODUCT_NAME = FluffyChat;
+							PRODUCT_NAME = "LSP Chat";
 			};
 			name = Debug;
 		};
@@ -624,7 +624,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				PRODUCT_NAME = FluffyChat;
+							PRODUCT_NAME = "LSP Chat";
 			};
 			name = Release;
 		};
